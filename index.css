@@ -1,5 +1,7 @@
 .page {
-    background-image: url("image.webp");
+    background-image: url("image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     border: 10px groove greenyellow;
     padding: 20px;
     margin: 0px;
@@ -131,4 +133,3 @@
     margin: -25px 1px -20px 1px;
 }
     
-]
